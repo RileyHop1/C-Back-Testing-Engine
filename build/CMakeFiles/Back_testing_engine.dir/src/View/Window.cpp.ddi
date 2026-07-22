@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Back_testing_engine.dir/src/View/Window.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

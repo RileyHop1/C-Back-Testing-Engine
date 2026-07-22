@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Back_testing_engine.dir/main.cpp.o: dyndep
+
+build CMakeFiles/Back_testing_engine.dir/src/View/Window.cpp.o: dyndep
+

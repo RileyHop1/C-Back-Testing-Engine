@@ -1,0 +1,5 @@
+/home/riley/Programming/C++/Back-testing-engine/build/CMakeFiles/Back_testing_engine.dir
+/home/riley/Programming/C++/Back-testing-engine/build/CMakeFiles/edit_cache.dir
+/home/riley/Programming/C++/Back-testing-engine/build/CMakeFiles/rebuild_cache.dir
+/home/riley/Programming/C++/Back-testing-engine/build/CMakeFiles/Back_testing_engine_autogen_timestamp_deps.dir
+/home/riley/Programming/C++/Back-testing-engine/build/CMakeFiles/Back_testing_engine_autogen.dir
